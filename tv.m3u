@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", FIFA 
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",Unite8 sports 
-https://bdixserver.tvhunter.top/ant1001/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hvpyuek.png",B TV
 http://114.130.57.233:8080/Fifa-1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
@@ -91,8 +85,10 @@ https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/id7Bbbn5Kv/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1781737266470",DESH TV 
 https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png",T Sports 
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png",ZEE BANGLA
-https://aboxbdix-main-server.mdabdullahsheikh017-924.workers.dev/live/nested?url=https%3A%2F%2Flinux-desktop-production-cf5b.up.railway.app%2Fzee-bangla%2Ftracks-v1a1%2Fmono.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1531202.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg",ZEE BANGLA .2
 http://103.159.180.34:5001/live/625.m3u8
