@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225786.
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png",Sony Aath
-https://aboxbdix.ryvox-tb-8ae.workers.dev/live/nested?url=KQTI7MDuVvxC_6-gvvipGsaZ4O8cfltAHs_qBiM9nF6x5hSSJ5UWofKP4mjr_teBRy0gJE3pXV-_WMybZn0DCgS7pxM4dhhUro0ZXoDih67-klJL947UloqLhHyyTuxoRKKFClm4c1IJ1mMLMN7j2LCk0I8cWa8ejKs077-2XmZb8A&token=07645712d36af8a182a08f8b3f9b8362&time=1785166671
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225775.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png",Colors Bangla Cinema
 http://66.102.126.10:8000/play/a015/index.m3u8
@@ -161,20 +161,20 @@ http://103.175.73.12:8080/live/29/29_0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Disney Channel
 https://yowaimo.in/Sflex-ArtlPVT0719/DISNEY_CHANNEL.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Disney Channel
-http://119.156.228.231:9983/stream/channelid/1324398660
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Hungama kinds 
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097664.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Disney Channel HD
-https://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Disney Sony Yay!
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156089.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",CARTOON NETWORK
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Pogo
-https://login.bheem.tv/bpk-tv/22603/output/index.mpd
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156128.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",CN HD+
-https://login.bheem.tv/bpk-tv/22096/output/index.mpd
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png", Discovery Kids
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1540017.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",History TV18 HD HINDI
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
