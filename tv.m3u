@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hvpyuek.png",B TV
-https://playztv-apps.pages.dev/btv/index.m3u8
+https://btv.hridoytv-channel.workers.dev/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jkouxLg.png",সংসদ বাংলাদেশ
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/songsodtv-world.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/475qK5T.png",মাই টিভি
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/my_tv/index.m3u8
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",Channel I
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/channel_i/index.m3u8
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/ATN_Bangla_Logo_without_slogan.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",ATN Bangla
 https://playztv-apps.pages.dev/atn-bangla/index.m3u8
@@ -40,7 +40,7 @@ https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",Star News
-https://sm-monirul.top/@monirul_Islam_SM/akash/stream.php?id=star_news&formet=.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_GTV_%28Bangladesh%29.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",G TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
@@ -64,13 +64,13 @@ https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
 https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/bangla_vision/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Rtv_bangladesh.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",RTV
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/rtv/index.m3u8
+https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/SA_TV_Bangladesh_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",SA TV
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/sa_tv/index.m3u8
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png",Bangla TV
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/bangla_tv/index.m3u8
+https://stream.ottplus.bd/live/bangla_tv_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png",Asian TV
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
@@ -88,7 +88,7 @@ https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",ETV
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/etv/index.m3u8
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/id7Bbbn5Kv/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1781737266470",DESH TV 
 https://playztv-apps.pages.dev/desh-tv/index.m3u8
