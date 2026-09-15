@@ -116,10 +116,13 @@ http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225775.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png",Colors Bangla Cinema
-http://66.102.126.10:8000/play/a015/index.m3u8
+http://live.balajibroadband.com:3500/live/1369.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Zee Bangla Sonar
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",star jhalsha movies
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",AKASH AATH IN
 http://103.159.180.34:5001/live/698.m3u8
@@ -167,7 +170,7 @@ https://airtel.rkdyiptv.workers.dev/live/409.m3u8
 http://power8kse.xyz/s5b6tb5b8/c6a783a669/440403
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Disney Channel
-https://yowaimo.in/Sflex-ArtlPVT0719/DISNEY_CHANNEL.m3u8
+http://202.70.146.135:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Hungama kinds 
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1097664.m3u8
@@ -215,7 +218,7 @@ http://103.180.212.191:3500/live/3418.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_wah.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Sony Max 2
-https://sm-monirul.top/toffee/play/sonymax_2.m3u8
+http://live.balajibroadband.com:3500/live/3418.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX HD
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_MAX_HD.m3u8
