@@ -199,11 +199,11 @@ http://fastshare1.com:8080//live/25711345/late8airline/20622.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Sony HD
 https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",SAB HD
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SAB_HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/ea93cb6a-cb48-4841-99d2-8d2cfd835b63.jpg",Sony SAB HD
+http://live.balajibroadband.com:3500/live/471.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Sony Pal
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_PAL.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png",Sony Pal
+http://live.balajibroadband.com:3500/live/474.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",SONY KAL
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
@@ -212,16 +212,16 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_yay.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",MAX 1
-http://103.180.212.191:3500/live/3418.m3u8
+http://live.balajibroadband.com:3500/live/3418.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Sony WAH
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_wah.m3u8
+https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Sony Max 2
 http://live.balajibroadband.com:3500/live/3418.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX HD
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_MAX_HD.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",Sony MAX HD
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/151.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
